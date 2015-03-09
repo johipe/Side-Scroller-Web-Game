@@ -77,6 +77,8 @@
     <Content Include="Scripts\lib\preloadjs-0.6.0.min.js" />
     <Content Include="Scripts\lib\soundjs-0.6.0.min.js" />
     <Content Include="Scripts\lib\tweenjs-0.6.0.min.js" />
+    <TypeScriptCompile Include="Scripts\objects\allien.ts" />
+    <TypeScriptCompile Include="Scripts\objects\asteroid.ts" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
